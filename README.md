@@ -1,1 +1,1 @@
-# my-coding-journrey
+# my-coding-journey
